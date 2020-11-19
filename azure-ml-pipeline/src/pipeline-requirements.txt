@@ -1,0 +1,8 @@
+azureml-sdk
+azureml-pipeline-core 
+azureml-pipeline-steps 
+pandas 
+requests
+xgboost
+sklearn
+pyarrow
